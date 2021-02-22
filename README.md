@@ -15,6 +15,7 @@
   - [Styled Components](https://styled-components.com/)
   - [Context API](https://pt-br.reactjs.org/docs/context.html)
   - Requisições a API
+  - [PokéAPI](https://pokeapi.co)
 
 ## Níveis :pushpin:
 
